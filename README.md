@@ -1,5 +1,8 @@
 # Welcome to Your React Native App 👋
 
+![Android Emulator - Pixel_8_Pro_API_TiramisuPrivacySandbox_5554 2024-08-20 22-24-50](https://github.com/user-attachments/assets/d1c8d9a5-80b5-49ac-b8a6-efbc5737452d)
+
+
 This project was initially created as an Expo project but has since been ejected due to the integration of features like Google Sign-In.
 
 ## Getting Started
